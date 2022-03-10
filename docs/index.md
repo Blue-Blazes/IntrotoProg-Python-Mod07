@@ -1,4 +1,4 @@
-### Pickling and Structured Error Handling 
+### Pickling and Structured Error Handling  
 ## Introduction  
 In this module, we learned more about working text and binary files, specifically reading and appending data to them. We also explored structured error handling as well as markdown language.  
 ## Questions
